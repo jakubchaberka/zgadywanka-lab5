@@ -1,0 +1,7 @@
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\bin\Debug\GraProceduralnie.exe.config
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\bin\Debug\GraProceduralnie.exe
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\bin\Debug\GraProceduralnie.pdb
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\obj\Debug\GraProceduralnie.csprojAssemblyReference.cache
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\obj\Debug\GraProceduralnie.csproj.CoreCompileInputs.cache
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\obj\Debug\GraProceduralnie.exe
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraProceduralnie\obj\Debug\GraProceduralnie.pdb

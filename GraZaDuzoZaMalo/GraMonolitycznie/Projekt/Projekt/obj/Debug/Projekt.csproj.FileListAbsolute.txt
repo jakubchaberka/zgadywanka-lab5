@@ -1,0 +1,7 @@
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\bin\Debug\Projekt.exe.config
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\bin\Debug\Projekt.exe
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\bin\Debug\Projekt.pdb
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\obj\Debug\Projekt.exe
+D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab5-master\GraZaDuzoZaMalo\GraMonolitycznie\Projekt\Projekt\obj\Debug\Projekt.pdb
