@@ -1,7 +1,0 @@
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb

@@ -11,19 +11,19 @@ namespace UnitTestProjectModelGry
         [DataRow(1, 10)]
         [DataRow(1, 1)]
         [DataRow(10, 1)]
-        public void Losuj_OK(int x, int y)
+        public void Losuj_Zakres_OK(int a, int b)
         {
-            //Arrange-Act-Assert = AAA
-
+            //AAA
             //Arrange
+            int x = a;
+            int y = b;
 
             //Act
-            int wylosuj = Gra.Losuj(x, y);
+            int los = Gra.Losuj(x, y);
 
             //Assert
-            Assert.IsTrue(wylosuj >= Math.Min(x, y)
-                       && wylosuj <= Math.Max(x, y));
-
+            Assert.IsTrue(los >= Math.Min(x,y) 
+                        && los <= Math.Max(x,y));
         }
     }
 }

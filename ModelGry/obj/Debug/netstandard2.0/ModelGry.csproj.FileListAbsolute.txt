@@ -1,9 +1,0 @@
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\bin\Debug\netstandard2.0\ModelGry.deps.json
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\bin\Debug\netstandard2.0\ModelGry.dll
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\bin\Debug\netstandard2.0\ModelGry.pdb
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.csprojAssemblyReference.cache
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.csproj.CoreCompileInputs.cache
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.AssemblyInfoInputs.cache
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.AssemblyInfo.cs
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.dll
-D:\Users\jakub.chaberka\zgadywanka\zgadywanka-lab3n-master\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.pdb
