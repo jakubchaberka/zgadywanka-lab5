@@ -38,6 +38,10 @@ namespace ModelGry
             StanGry = State.Trwa;
             historia = new List<Ruch>();
         }
+        public IReadOnlyList<Ruch> getRuchy()
+        {
+            return Historia;
+        }
 
         public Odpowiedz Ocena( int propozycja )
         {
@@ -72,5 +76,7 @@ namespace ModelGry
             Random generator = new Random();
             return generator.Next(min, max + 1);
         }
+
+
     }
 }
